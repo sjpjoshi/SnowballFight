@@ -1,4 +1,4 @@
-**# Snowball Fight
+# Snowball Fight
 
 Welcome to Snowball Fight, a fun and exciting two-player game where you battle a friend in a snowy arena!
 
